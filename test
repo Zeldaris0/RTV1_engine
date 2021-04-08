@@ -1,0 +1,7 @@
+cam : pos,0,0,0 : trs,0,0,0 : dir,0,0,-5
+light : pos,0,0,0 : trs,0,0,0 :  col,255,255,255 : int,255
+
+sphere : pos,-3,0,-5 : trs,0,0,0 : col,41, 128, 185 : rad,1
+plane : pos,0,-5,0 : trs,0,0,0 : col,255,0,0 : rot,0,0,0 : dir,0,1,0
+cone : pos,5,0,-5 : trs,0,0,0 : col,0,255,0 : rot,0,0,0: dir,0,1,0 : ang,180
+cylinder : pos,3,0,-10 : trs,0,0,0 : col,241, 196, 15 : rot,0,0,0 : dir,0,1,0 : rad,1

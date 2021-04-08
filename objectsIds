@@ -1,0 +1,6 @@
+cam : 0
+light : 1
+sphere : 2
+plane : 3
+cone : 4
+cylinder : 5
